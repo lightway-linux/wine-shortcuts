@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Wine Regedit
+Name[ko]=Wine 레지스트리 편집기
+Comment=Run Wine Registry Editor.
+Comment[ko]=Wine 레지스트리 편집기를 실행합니다.
+Icon=regedit
+Exec=regedit
+Terminal=false
+Categories=Utility;
+Keywords=regedit;

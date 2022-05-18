@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Wine Configurations
+Name[ko]=Wine 설정
+Comment=Wine Configurations
+Comment[ko]=Wine 환경설정을 실행합니다.
+Icon=winecfg
+Exec=winecfg
+Terminal=false
+Categories=Utility;
+Keywords=winecfg;
